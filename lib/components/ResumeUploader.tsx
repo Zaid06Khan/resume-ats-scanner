@@ -250,9 +250,6 @@ export default function ResumeUploader() {
     return <AnalyzingView step={step} fileName={fileName} />;
   }
 
-  const currentStepLabel = STEP_MAP[step] ?? 'Upload';
-  const stepIndex = STEPS.indexOf(currentStepLabel);
-
   return (
     <div className="max-w-xl mx-auto px-4 pt-24 pb-16">
       <StepIndicator step={step} />

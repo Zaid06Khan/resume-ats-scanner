@@ -20,7 +20,6 @@ interface ScoreCardProps {
 
 export default function ScoreCard({ result, index = 0 }: ScoreCardProps) {
   const { platformName, totalScore, passed, rating, dimensionScores } = result;
-  const accentColor = getColorForScore(totalScore);
 
   const ratingColors: Record<string, string> = {
     Excellent: 'text-green-400 bg-green-400/10 border-green-400/30',
