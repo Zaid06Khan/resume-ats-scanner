@@ -51,6 +51,12 @@ export default function OptimizationSuggestions({ aiSuggestions, aiLoading, aiEr
         <AnimatePresence>
           {aiLoading && aiSuggestions.length === 0
             ? Array.from({ length: 3 }).map((_, i) => <SkeletonCard key={i} />)
+            : !aiLoading && aiSuggestions.length === 0
+            ? (
+              <div className="text-center py-8 text-white/25 text-sm">
+                No suggestions available. Your resume looks solid!
+              </div>
+            )
             : aiSuggestions.map((suggestion, i) => (
                 <motion.div
                   key={`${suggestion.title}-${i}`}

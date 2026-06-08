@@ -190,6 +190,7 @@ export default function ResumeUploader() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ resumeText: text, jobDescription }),
       });
+      if (!res.ok) throw new Error(`API error ${res.status}`);
       const data = await res.json();
       setAISuggestions(data.suggestions ?? []);
       if (data.fallback) setAIError('fallback');
