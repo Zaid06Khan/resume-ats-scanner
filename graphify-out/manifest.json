@@ -1,0 +1,317 @@
+{
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.eslintrc.json": {
+    "mtime": 1779614209.7893689,
+    "ast_hash": "5cc89077d438e3d0d0a8308ab7e06a5a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\make-zip.mjs": {
+    "mtime": 1780877796.566777,
+    "ast_hash": "29b3180ab9429564a3d284b532f894d4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\make-zip.ps1": {
+    "mtime": 1780877755.674992,
+    "ast_hash": "be077add62cec69dac5e8ae3e4b1eae7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\next.config.mjs": {
+    "mtime": 1780870397.0078232,
+    "ast_hash": "e598836b9691a9ec60468ce79eb197d3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\package.json": {
+    "mtime": 1780870394.1275609,
+    "ast_hash": "99693b11ef57a80e654573f6f9f0a6bb",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\postcss.config.mjs": {
+    "mtime": 1779614209.8373942,
+    "ast_hash": "b7941c02b947e17ae32f67ae7e664ec8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\tailwind.config.ts": {
+    "mtime": 1780870401.2071471,
+    "ast_hash": "eee0ad0fd39543670dc835ac9557d49b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\tsconfig.json": {
+    "mtime": 1780870323.8696012,
+    "ast_hash": "570e85507d1fb0c609255b9a0aa95595",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\app\\layout.tsx": {
+    "mtime": 1780953084.8795056,
+    "ast_hash": "a9a1f5f003ff2555053260f5ee3db294",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\app\\page.tsx": {
+    "mtime": 1780953415.6206913,
+    "ast_hash": "9be076489585ff2d087bfc0076db5c5f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\app\\api\\analyze\\route.ts": {
+    "mtime": 1780870565.5190732,
+    "ast_hash": "724584861e00260c7a16005dd03e3807",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\app\\scanner\\page.tsx": {
+    "mtime": 1780953419.7951977,
+    "ast_hash": "24ee8764c8878180c5fc8f98d9884e15",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\types.ts": {
+    "mtime": 1780870452.52425,
+    "ast_hash": "5e35f791f3fd9fc6751caa9d316f906b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\LandingHero.tsx": {
+    "mtime": 1780956956.8702588,
+    "ast_hash": "4059755beca7022ecbe4e49a1c0628ae",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\Navbar.tsx": {
+    "mtime": 1780871938.9982328,
+    "ast_hash": "eef386ff1907dd890c3b833a8754109b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\OptimizationSuggestions.tsx": {
+    "mtime": 1780870614.3806744,
+    "ast_hash": "fc1e371ba749eec3dcc9eaa75665b92f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\ResumeOverview.tsx": {
+    "mtime": 1780870600.8493125,
+    "ast_hash": "4607d6eacda55a472ecc4d54e6e460ec",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\ResumeUploader.tsx": {
+    "mtime": 1780953401.0966485,
+    "ast_hash": "612cb26877e82ade45199078e8bee460",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\ScoreCard.tsx": {
+    "mtime": 1780870590.2486763,
+    "ast_hash": "0e7ab9c726c04b9a99ab4e1895a0a6b4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\ScoreDashboard.tsx": {
+    "mtime": 1780872146.3626075,
+    "ast_hash": "d6229c8494606466429ee05240b0c93e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\components\\ScoreRing.tsx": {
+    "mtime": 1780870576.8763309,
+    "ast_hash": "f259cfb0411429301a9308f36c287156",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\data\\action-verbs.ts": {
+    "mtime": 1780870438.9320674,
+    "ast_hash": "19cdbdc2327391ea086ccca36b02f37b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\data\\platform-weights.ts": {
+    "mtime": 1780870448.3279161,
+    "ast_hash": "12603571e7f75c0fa7c921be941177be",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\data\\skills-taxonomy.ts": {
+    "mtime": 1780870432.438675,
+    "ast_hash": "d4a6949460ba71e8739d149643924c87",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\engine\\nlp.ts": {
+    "mtime": 1780870480.3530488,
+    "ast_hash": "88d8c824caaddd500aceb5fe783ca736",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\engine\\parser.ts": {
+    "mtime": 1780870753.7657106,
+    "ast_hash": "0fa6f08a5c7d399a04dc8c6288365800",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\engine\\platforms.ts": {
+    "mtime": 1780870519.4600892,
+    "ast_hash": "872171294fe33a052610feffb30e1aaf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\engine\\scorer.ts": {
+    "mtime": 1780870505.6655705,
+    "ast_hash": "2f891916bb1fdc752ba586c354993e1d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\lib\\store\\scanStore.ts": {
+    "mtime": 1780870527.263043,
+    "ast_hash": "92447c947c63f10b50fbc0a153b89eb8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\public\\pdf.worker.min.mjs": {
+    "mtime": 1780870379.9421463,
+    "ast_hash": "1b3bec25faa882380aa81a1353c7734c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\README.md": {
+    "mtime": 1779614209.8131912,
+    "ast_hash": "f15aaa42d5d299d091b1171097ea56ad",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-20-22-728Z.yml": {
+    "mtime": 1780870822.7306225,
+    "ast_hash": "efa6a16f5e17e92d706b3c87a3d47b2c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-20-37-686Z.yml": {
+    "mtime": 1780870837.6885958,
+    "ast_hash": "94ae5ab1dfcded2cf1ff86ac4d52e784",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-20-48-754Z.yml": {
+    "mtime": 1780870848.7562015,
+    "ast_hash": "ce63d9bf63acc4654392defee4aeae9f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-21-15-316Z.yml": {
+    "mtime": 1780870875.3188806,
+    "ast_hash": "1053ad68494e1b2abd6de4c57a6e6008",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-35-07-262Z.yml": {
+    "mtime": 1780871707.2645438,
+    "ast_hash": "aa09b3c85bf57525a5f94e84f7f9f7a1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-36-37-713Z.yml": {
+    "mtime": 1780871797.7175593,
+    "ast_hash": "267575f33feffd9afae9d31554234b52",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-42-56-447Z.yml": {
+    "mtime": 1780872176.4607873,
+    "ast_hash": "f3775ad59d40b064a24d81886c7036dd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-07T22-44-21-889Z.yml": {
+    "mtime": 1780872261.89449,
+    "ast_hash": "862b41ab32a2791220fb20be4e0fb832",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-08T00-05-29-479Z.yml": {
+    "mtime": 1780877129.486581,
+    "ast_hash": "ae2a12e81c4e85d3935a3a06db0b5838",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-08T21-19-59-844Z.yml": {
+    "mtime": 1780953599.8479383,
+    "ast_hash": "c712abc253d0b23e693baba19d833aaf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-08T21-20-47-436Z.yml": {
+    "mtime": 1780953647.438405,
+    "ast_hash": "43272222140f64b1e585cfeb86de0209",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-08T21-21-12-477Z.yml": {
+    "mtime": 1780953672.4793754,
+    "ast_hash": "eb03d95beea3aa5f83279f18d35481de",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\.playwright-cli\\page-2026-06-08T22-16-07-579Z.yml": {
+    "mtime": 1780956967.5818903,
+    "ast_hash": "fcc47ffdedd6d0bf071a9e7d3627dbf0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\analyzing.png": {
+    "mtime": 1780953674.0356374,
+    "ast_hash": "a3487e65a68ac9ad50aeb8d83be28924",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\claude-design.png": {
+    "mtime": 1780877135.318734,
+    "ast_hash": "0dfdb55f88f7775464b4d5d72d0c1a94",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\features.png": {
+    "mtime": 1780953629.3059254,
+    "ast_hash": "8a3a05637ce255545afcbbc598646bfc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\footer.png": {
+    "mtime": 1780956971.0154133,
+    "ast_hash": "ffb1436cc8d9b454d1fc51670e1ba034",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\landing.png": {
+    "mtime": 1780953605.7279577,
+    "ast_hash": "2cd65a5c64adad09105abef18c29a4d1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\new-landing.png": {
+    "mtime": 1780872182.8753247,
+    "ast_hash": "2cef02ac1106b0d38237ac4bbfed4d32",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\new-landing2.png": {
+    "mtime": 1780872223.8533702,
+    "ast_hash": "e864c90cc1676efc9eaede5821fea991",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\new-landing3.png": {
+    "mtime": 1780872244.892316,
+    "ast_hash": "2c5e93d7cd0b92ad38c59d34af7c3958",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\new-scanner.png": {
+    "mtime": 1780872262.8626513,
+    "ast_hash": "e7e3da856c0af5c296acac0369899573",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\ref-landing.png": {
+    "mtime": 1780871712.1087842,
+    "ast_hash": "1196ff6fc99e7e2dc9d18f21a072e85e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\ref-landing2.png": {
+    "mtime": 1780871734.9238791,
+    "ast_hash": "6d9ecab140ea54058012107a1b5e36c8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\ref-landing3.png": {
+    "mtime": 1780871758.1630127,
+    "ast_hash": "8655be1d6a3c6efc5471ea5a28eee9b0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\ref-landing4.png": {
+    "mtime": 1780871782.6048021,
+    "ast_hash": "8d3dc49541cfa79791c11370efe6be22",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\ref-scanner.png": {
+    "mtime": 1780871807.8492682,
+    "ast_hash": "fd0235e31750a9d420ec2784c95b4527",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\results.png": {
+    "mtime": 1780953686.6506162,
+    "ast_hash": "b63036fb67836bcbe96943634ef27ad6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\results2.png": {
+    "mtime": 1780870891.178408,
+    "ast_hash": "15a7a2f579d92c1893156c2d095e29db",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\results3.png": {
+    "mtime": 1780870899.6436517,
+    "ast_hash": "5bb82ccddf335b66d5979a5eb952011d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\scanner-page.png": {
+    "mtime": 1780953647.89555,
+    "ast_hash": "735b472fe6887a8af95dfc1ddf306371",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\Zaid Khan\\Claude Projects\\Resume-Ats-Scanner\\scanner.png": {
+    "mtime": 1780953630.3190737,
+    "ast_hash": "31c2867ca9ae979067c03aa809cc80d5",
+    "semantic_hash": ""
+  }
+}

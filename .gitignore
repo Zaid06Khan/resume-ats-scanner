@@ -34,3 +34,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# screenshots / temp files
+*.png
+*.zip
+make-zip.mjs
+make-zip.ps1
+file-list.txt
+
+# playwright
+.playwright-cli/
+
+# graphify html (large generated file, graph.json is enough)
+graphify-out/graph.html
+graphify-out/GRAPH_TREE.html

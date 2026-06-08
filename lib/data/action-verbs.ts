@@ -1,0 +1,15 @@
+export const ACTION_VERBS: string[] = [
+  'achieved', 'accelerated', 'architected', 'automated', 'built',
+  'collaborated', 'coordinated', 'created', 'defined', 'delivered',
+  'deployed', 'designed', 'developed', 'directed', 'drove',
+  'enabled', 'engineered', 'enhanced', 'established', 'executed',
+  'expanded', 'facilitated', 'generated', 'grew', 'guided',
+  'implemented', 'improved', 'increased', 'initiated', 'integrated',
+  'launched', 'led', 'managed', 'mentored', 'migrated',
+  'modernized', 'negotiated', 'optimized', 'orchestrated', 'owned',
+  'partnered', 'performed', 'pioneered', 'produced', 'provided',
+  'rebuilt', 'reduced', 'refactored', 'replaced', 'resolved',
+  'scaled', 'shipped', 'simplified', 'spearheaded', 'streamlined',
+  'supported', 'transformed', 'trained', 'utilized', 'validated',
+  'wrote',
+];
